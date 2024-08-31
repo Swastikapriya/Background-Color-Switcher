@@ -11,23 +11,9 @@
 
 ## Demo
 
-You can view the live demo [here](insert-live-demo-link-here) (replace with your actual live demo link).
+You can view the live demo 
+https://swastikapriya.github.io/Background-Color-Switcher/
 
-## Installation
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd your-repository-name
-    ```
-
-3. **Open `index.html` in your web browser to view the project.**
 
 ## Files
 
